@@ -6,4 +6,4 @@
 - 🔨 I use HTML, CSS, JavaScript, PHP, SQL, Kotlin. 
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on web projects and app projects.
-- 📫 How to reach me : 
+- 📫 How to reach me : Telegram  (@Jazzeleven) 
