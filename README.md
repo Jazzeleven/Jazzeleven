@@ -1,7 +1,7 @@
 ## About me
 
 - 👋 Hi, I’m @Jazzeleven
-- 🥽 I make websites
+- 🥽 I make websites, apps, ...
 - 👀 I’m interested in Computer Sciences
 - 🔨 I use HTML, CSS, JavaScript, PHP, SQL, Kotlin. 
 - 🌱 I’m currently learning C, Rust, Python, ..
